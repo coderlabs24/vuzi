@@ -1,229 +1,343 @@
-# Privacy Policy
+PRIVACY NOTICE
 
-Last updated: April 16, 2024
+Last updated APR 16, 2024
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-## Interpretation and Definitions
 
-### Interpretation
+Thank you for choosing to be part of our community at vuzi ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at vuzi.help@gmail.com.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
-### Definitions
+This privacy notice applies to all information collected through our Services (which, as described above, includes our App), as well as, any related services, sales, marketing or events.
 
-For the purposes of this Privacy Policy:
+Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
-- __Account__ means a unique account created for You to access our Service or parts of our Service.
-- __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+TABLE OF CONTENTS
 
-- __Application__ refers to Vuzi, the software program provided by the Company.
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE USE YOUR INFORMATION?
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+5. DO WE USE GOOGLE MAPS PLATFORM APIS?
+6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+8. HOW LONG DO WE KEEP YOUR INFORMATION?
+9. HOW DO WE KEEP YOUR INFORMATION SAFE?
+10. DO WE COLLECT INFORMATION FROM MINORS?
+11. WHAT ARE YOUR PRIVACY RIGHTS?
+12. CONTROLS FOR DO-NOT-TRACK FEATURES
+13. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+14. DO WE MAKE UPDATES TO THIS NOTICE?
+15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+16. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
+1. WHAT INFORMATION DO WE COLLECT?
 
+Personal information you disclose to us
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Vuzi.
+In Short:  We collect personal information that you provide to us.
 
+We collect personal information that you voluntarily provide to us when you register on the App, express an interest in obtaining information about us or our products and Services, when you participate in activities on the App (such as by posting messages in our online forums or entering competitions, contests or giveaways) or otherwise when you contact us.
 
+The personal information that we collect depends on the context of your interactions with us and the App, the choices you make and the products and features you use. The personal information we collect may include the following:
 
-- __Country__ refers to: Ohio,  United States
+Personal Information Provided by You. We collect names; phone numbers; email addresses; usernames; passwords; contact preferences; contact or authentication data; and other similar information.
 
-- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Social Media Login Data. We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS" below.
 
+All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
+Information automatically collected
 
-- __Personal Data__ is any information that relates to an identified or identifiable individual.
+In Short:  Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our App.
 
+We automatically collect certain information when you visit, use or navigate the App. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our App and other technical information. This information is primarily needed to maintain the security and operation of our App, and for our internal analytics and reporting purposes.
 
+Like many businesses, we also collect information through cookies and similar technologies.
 
+The information we collect includes:
+Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our App and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the App (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
+Device Data. We collect device data such as information about your computer, phone, tablet or other device you use to access the App. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model Internet service provider and/or mobile carrier, operating system and system configuration information.
+Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the App. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-- __Service__ refers to the Application.
+Information collected through our App
 
-- __Service Provider__ means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
-	
+In Short:  We collect information regarding your geo-location, mobile device, push notifications, when you use our App.
 
-- __Third-party Social Media Service__ refers to any website or any social network website through which a User can log in or create an account to use the Service.
+If you use our App, we also collect the following information:
+Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our App, to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's bluetooth, calendar, camera, contacts, microphone, sensors, social media accounts, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and information about the features of our App you accessed.
+Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
-- __Usage Data__ refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+2. HOW DO WE USE YOUR INFORMATION?
 
+In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
+We use the information we collect or receive:
 
 
-## Collecting and Using Your Personal Data
 
-### Types of Data Collected
 
-#### Personal Data
+To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our App, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS" below).
+Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-- Email address
-- First name and last name
+In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
-- Address, State, Province, ZIP/Postal code, City
+We may process or share your data that we hold based on the following legal basis:
+Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
+Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+More specifically, we may need to process your data or share your personal information in the following situations:
+Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+Other Users. When you share personal information (for example, by posting comments, contributions or other content to the App) or otherwise interact with public areas of the App, such personal information may be viewed by all users and may be publicly made available outside the App in perpetuity. If you interact with other users of our App and register for our App through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our App, and view your profile.
 
+4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-- Usage Data
+In Short:  We may use cookies and other tracking technologies to collect and store your information.
 
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
+5. DO WE USE GOOGLE MAPS PLATFORM APIS?
 
-#### Usage Data
+In Short:  Yes, we use Google Maps Platform APIs for the purpose of providing better service.
 
-Usage Data is collected automatically when using the Service.
+This App uses Google Maps Platform APIs which are subject to Google’s Terms of Service. You may find the Google Maps Platform Terms of Service here. To find out more about Google’s Privacy Policy, please refer to this link.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform.
 
+We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-#### Information from Third-Party Social Media Services
+7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
-The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
+In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our Website.
 
-- Google
-- Facebook
-- Instagram
-- Twitter
-- LinkedIn
+The App may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the App. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
+8. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
+In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than the period of time in which users have an account with us.
 
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
+9. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-#### Information Collected while Using the Application
+In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
 
-While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment.
 
-- Information regarding your location
+10. DO WE COLLECT INFORMATION FROM MINORS?
 
-- Pictures and other information from your Device's camera and photo library
+In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
-We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at vuzi.help@gmail.com.
 
-You can enable or disable access to this information at any time, through Your Device settings.
+11. WHAT ARE YOUR PRIVACY RIGHTS?
 
+In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
+If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
+If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
-### Use of Your Personal Data
+If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
-The Company may use Personal Data for the following purposes:
+Account Information
 
-- __To provide and maintain our Service__, including to monitor the usage of our Service.
-- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-- __To provide You__ with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
-- __To manage Your requests:__ To attend and manage Your requests to Us.
+If you would at any time like to review or change the information in your account or terminate your account, you can:
+Log in to your account settings and update your user account.
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with applicable legal requirements.
 
-- __For business transfers:__ We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
-- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our App. To opt-out of interest-based advertising by advertisers on our App visit http://www.aboutads.info/choices/.
 
-We may share Your personal information in the following situations:
+Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list — however, we may still communicate with you, for example to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may:
+Access your account settings and update your preferences.
 
-- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
-- __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-- __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-- __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
-- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
-- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
+12. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-### Retention of Your Personal Data
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+13. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
-### Transfer of Your Personal Data
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+If you are under 18 years of age, reside in California, and have a registered account with the App, you have the right to request removal of unwanted data that you publicly post on the App. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the App, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).
 
-Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+CCPA Privacy Notice
 
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+The California Code of Regulations defines a "resident" as:
 
-### Delete Your Personal Data
+(1) every individual who is in the State of California for other than a temporary or transitory purpose and
+(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
 
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+All other individuals are defined as "non-residents."
 
-Our Service may give You the ability to delete certain information about You from within the Service.
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+What categories of personal information do we collect?
 
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+We have collected the following categories of personal information in the past twelve (12) months:
 
-### Disclosure of Your Personal Data
 
-#### Business Transactions
+Category
 
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-#### Law enforcement
+Examples
 
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-#### Other legal requirements
+Collected
 
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+A. Identifiers
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name
 
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
+NO
 
-### Security of Your Personal Data
+B. Personal information categories listed in the California Customer Records statute
+Name, contact information, education, employment, employment history and financial information
 
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+YES
 
+C. Protected classification characteristics under California or federal law
+Gender and date of birth
 
+NO
 
+D. Commercial information
+Transaction information, purchase history, financial details and payment information
 
+NO
 
+E. Biometric information
+Fingerprints and voiceprints
 
+NO
 
+F. Internet or other similar network activity
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems and advertisements
 
+NO
 
+G. Geolocation data
+Device location
 
+NO
 
+H. Audio, electronic, visual, thermal, olfactory, or similar information
+Images and audio, video or call recordings created in connection with our business activities
 
+NO
+I. Professional or employment-related information
+Business contact details in order to provide you our services at a business level, job title as well as work history and professional qualifications if you apply for a job with us
 
+NO
+J. Education Information
+Student records and directory information
 
+NO
+K. Inferences drawn from other personal information
+Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
 
+YES
 
+We may also collect other personal information outside of these categories instances where you interact with us in-person, online, or by phone or mail in the context of:
+Receiving help through our customer support channels;
+Participation in customer surveys or contests; and
+Facilitation in the delivery of our Services and to respond to your inquiries.
+How do we use and share your personal information?
 
+More information about our data collection and sharing practices can be found in this privacy notice.
 
-## Children's Privacy
+You may contact us by email at vuzi.help@gmail.com, or by referring to the contact details at the bottom of this document.
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+If you are using an authorized agent to exercise your right to opt-out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Will your information be shared with anyone else?
 
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.
 
-## Links to Other Websites
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal data.
 
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+vuzi has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. vuzi will not sell personal information in the future belonging to website visitors, users and other consumers.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Your rights with respect to your personal data
 
-## Changes to this Privacy Policy
+Right to request deletion of the data - Request to delete
 
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation or any processing that may be required to protect against illegal activities.
 
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+Right to be informed - Request to know
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Depending on the circumstances, you have a right to know:
+whether we collect and use your personal information;
+the categories of personal information that we collect;
+the purposes for which the collected personal information is used;
+whether we sell your personal information to third parties;
+the categories of personal information that we sold or disclosed for a business purpose;
+the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+the business or commercial purpose for collecting or selling personal information.
+In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
-## Contact Us
+Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
 
-If you have any questions about this Privacy Policy, You can contact us:
+We will not discriminate against you if you exercise your privacy rights.
 
+Verification process
+
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
+
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. If, however, we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity, and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
+
+Other privacy rights
+you may object to the processing of your personal data
+you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data
+you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+you may request to opt-out from future selling of your personal information to third parties. Upon receiving a request to opt-out, we will act upon the request as soon as feasibly possible, but no later than 15 days from the date of the request submission.
+To exercise these rights, you can contact us by email at vuzi.help@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+Financial Incentives
+
+"Financial incentive" means a program, benefit, or other offering, including payments to consumers as compensation, for the disclosure, deletion, or sale of personal information.
+
+The law permits financial incentives or a price or service difference if it is reasonably related to the value of the consumer’s data. A business must be able to explain how the financial incentive or price or service difference is reasonably related to the value of the consumer’s data. The explanation must include:
+a good-faith estimate of the value of the consumer’s data that forms the basis for offering the financial incentive or price or service difference; and
+a description of the method the business used to calculate the value of the consumer’s data.
+We may decide to offer a financial incentive (e.g. price or service difference) in exchange for the retention or sale of a consumer’s personal information.
+
+If we decide to offer a financial incentive, we will notify you of such financial incentive and explain the price difference, as well as material terms of the financial incentive or price of service difference, including the categories of personal information that are implicated by the financial incentive or price or service difference.
+
+If you choose to participate in the financial incentive you can withdraw from the financial incentive at any time by emailing us at vuzi.help@gmail.com, or by referring to the contact details at the bottom of this document.
+
+14. DO WE MAKE UPDATES TO THIS NOTICE?
+
+In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions or comments about this notice, you may email us at:
 
 - By email: vuzi.help@gmail.com
+
+16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: vuzi.help@gmail.com. We will respond to your request within 30 days.
+
+
